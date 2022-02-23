@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Just Another Text Editor",
-  "short_name": "J.A.T.E",
+  "name": "Text Editor",
+  "short_name": "Text",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "Takes notes with JavaScript syntax highlighting!",
+  "description": "Write your code here",
   "background_color": "#225ca3",
   "theme_color": "#225ca3"
 }
